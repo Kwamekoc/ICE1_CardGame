@@ -27,6 +27,7 @@ public class CardTrick {
         // and search magicHand here
         //Then report the result here
         // add one luckcard hard code 2,clubs
+        //lucky card 
     }
     
 }
